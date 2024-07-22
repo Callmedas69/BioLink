@@ -15,7 +15,7 @@ st.info('MAKE MEME GREATE AGAIN - MAKE AMERICA GREAT AGAIN')
 
 icon_size = 20
 
-st_button('website', 'https://fightfist.com', 'WEBSITE', icon_size)
+st_button('', 'https://fightfist.com', 'WEBSITE', )
 st_button('youtube', 'https://youtube.com/codingprofessor', 'Coding Professor YouTube channel', icon_size)
 st_button('medium', 'https://data-professor.medium.com/', 'Read my Blogs', icon_size)
 st_button('twitter', 'https://twitter.com/thedataprof/', 'Follow me on Twitter', icon_size)
